@@ -1,8 +1,8 @@
 ## Olá!!! Eu sou o Arthur Gabriel
 
-💻 Hoje trabalho com Desenvolvimento Web <br>
-👨‍💻 Estudando PHP e o Back-End <br>
-🎓 Estudo Ciências da Computação na UNA Cristiano Machado (3° Período). <br>
+💻 Hoje estudo Desenvolvimento Web pra ser um profissional <br>
+👨‍💻 Estudando Front-End<br>
+🎓 Estudo Análise e Desenvolvimento de Sistemas na Estácio - EAD (1° Período). <br>
 📫 Você pode saber mais sobre mim no meu Linkedin: https://www.linkedin.com/in/art2354/ <br>
 📌 Residente de Belo Horizonte 
 
