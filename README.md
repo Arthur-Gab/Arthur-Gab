@@ -16,6 +16,7 @@
   
 <div style="display: inline_block;" align='center'><br>
   <img align="center" alt="ReactJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="ReactJS" height="40" width="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg">
   <img align="center" alt="TailwindCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Prisma" height="40" width="40" src="https://avatars.githubusercontent.com/u/17219288?s=48&v=4">
