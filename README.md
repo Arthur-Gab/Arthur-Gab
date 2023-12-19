@@ -1,8 +1,7 @@
 ## Olá!!! Eu sou o Arthur Gabriel
 
-💻 Hoje estudo Desenvolvimento Web pra ser um profissional <br>
-👨‍💻 Estudando ReactJs e REST APIs<br>
-🎓 Estudo Análise e Desenvolvimento de Sistemas na Estácio - EAD (1° Período). <br>
+💻 Estudando para ser o melhor FullStack!! <br>
+🎓 Faculdade de Análise e Desenvolvimento de Sistemas na Estácio - EAD (3° Período). <br>
 📫 Você pode saber mais sobre mim no meu Linkedin: https://www.linkedin.com/in/art2354/ <br>
 📌 Residente de Belo Horizonte 
 
@@ -29,4 +28,6 @@
 <div  align='center'> 
   <a href="https://www.linkedin.com/in/art2354/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCPNr64ksGe2DbjdHO2mCfzw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitch.tv/a_gfer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="mailto:arthurgabriel933@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
